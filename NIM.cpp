@@ -31,6 +31,8 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	
+	cout << "Hvad kallaru bumerang sem kemur ekki til baka? " << "Spytu" << endl;
 	int val;
 	do
 	{
