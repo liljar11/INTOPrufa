@@ -31,14 +31,20 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+<<<<<<< HEAD
 	
 	cout << "Hvad kallaru bumerang sem kemur ekki til baka? " << "Spytu" << endl;
+=======
+
+>>>>>>> 5d53c884bc056e0ab966501f8a8878075b737091
 	int val;
 	do
 	{
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
+
+		cout << "Alexandra"<< endl;
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
